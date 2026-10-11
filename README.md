@@ -6,7 +6,7 @@ and the scene lands at your cursor as Final Draft paragraphs: scene heading,
 action, character, parenthetical and dialogue. Speech recognition and
 formatting both run on your Mac.
 
-Download it from https://mim18-code.github.io/software/#writers-block or from
+Download it from https://mindinmotionsoftware.com/#writers-block or from
 [Releases](https://github.com/MIM18-code/writers-block-releases/releases).
 
 This repository holds the signed and notarized disk images, their checksums
